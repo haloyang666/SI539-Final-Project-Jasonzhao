@@ -222,14 +222,20 @@ p {
 
 .text-link {
   font-size: 0.9rem;
-  color: #ffffff;
+  color: #2563eb;
   text-decoration: none;
 }
 
 .text-link:hover {
   text-decoration: underline;
 }
+.site-footer .text-link {
+  color: #e5e7eb;        
+}
 
+.site-footer .text-link:hover {
+  color: #bfdbfe;        
+}
 .hero {
   padding: 3.5rem 0 3rem;
 }
